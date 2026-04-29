@@ -48,7 +48,11 @@ Digital_Twin_Career/
 🔥 Roast My Stack: Юмористическая "агрессивная" кнопка мотивации в стиле строгого техлида.
 🌳 RPG Tech Tree: (В разработке) Геймифицированное дерево прокачки навыков.
 <img width="1919" height="959" alt="Снимок экрана 2026-04-30 050415" src="https://github.com/user-attachments/assets/4737bcd0-4965-4a95-9166-2f9e1e8d4e6e" />
+
+
 <img width="1919" height="792" alt="Снимок экрана 2026-04-30 050334" src="https://github.com/user-attachments/assets/3a91baed-5b18-49ff-a2d8-b73c962bac5d" />
+
+
 <img width="1562" height="758" alt="Снимок экрана 2026-04-30 050231" src="https://github.com/user-attachments/assets/76deb4d9-6c66-4698-bd9f-e4e32dd0d03b" />
 
 
