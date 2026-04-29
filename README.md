@@ -1,4 +1,11 @@
-<img width="1866" height="698" alt="image" src="https://github.com/user-attachments/assets/6e39e5c1-e98d-4407-887a-3f43f09ea7db" /># aibot
+<img width="1866" height="698" alt="image" src="https://github.com/user-attachments/assets/6e39e5c1-e98d-4407-887a-3f43f09ea7db" />
+
+<img width="1919" height="878" alt="photo_5447254730749973575_w" src="https://github.com/user-attachments/assets/56fc00cf-139a-4e4a-917a-bda0a13b8472" />
+
+<img width="1919" height="959" alt="photo_5447254730749973574_w" src="https://github.com/user-attachments/assets/311866fb-1d2f-40a0-8c05-4722224d4817" />
+
+
+# aibot
 # 🚀 Digital Twin Career Engine
 
 ## 📖 Описание проекта
@@ -47,13 +54,13 @@ Digital_Twin_Career/
 💬 Live Coach: Интерактивный чат с AI-ментором на базе Groq для обсуждения плана обучения и портфолио.
 🔥 Roast My Stack: Юмористическая "агрессивная" кнопка мотивации в стиле строгого техлида.
 🌳 RPG Tech Tree: (В разработке) Геймифицированное дерево прокачки навыков.
-<img width="1919" height="959" alt="Снимок экрана 2026-04-30 050415" src="https://github.com/user-attachments/assets/4737bcd0-4965-4a95-9166-2f9e1e8d4e6e" />
 
 
-<img width="1919" height="792" alt="Снимок экрана 2026-04-30 050334" src="https://github.com/user-attachments/assets/3a91baed-5b18-49ff-a2d8-b73c962bac5d" />
 
 
-<img width="1562" height="758" alt="Снимок экрана 2026-04-30 050231" src="https://github.com/user-attachments/assets/76deb4d9-6c66-4698-bd9f-e4e32dd0d03b" />
+
+
+
 
 
 
